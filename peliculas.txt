@@ -1,0 +1,25 @@
+Accion,Duro de Matar,Under Siege,Die Hard 2,Duro de Matar,Speed
+Accion,Rápido y Furioso,2 Fast 2 Furious,Rápido y Furioso,Rápido y furioso: reto Tokio,Need for Speed: La película
+Accion,Matrix,El origen,Matrix,Total Recall: Desafío Total,Blade Runner
+Accion,John Wick,Sin Control,Búsqueda Implacable,El Implacable,John Wick
+Accion,Mad Max,El Último Héroe en el Tiempo,El Libro de Eli,Mad Max: Fury Road,Mad Max: Fury Road
+Comedia,Supercool,Proyecto X,Supercool,Vecinos,Fiesta de Navidad en la Oficina
+Comedia,La Máscara,La Máscara,El Show de Truman,Ace Ventura: Un Detective Diferente,Liar Liar
+Comedia,Loco por Mary,Algo Pasa con Mary,Los Fockers: La Familia de Mi Esposo,Embriagado de Amor,Loco por Mary
+Comedia,Los Cazafantasmas,Los Cazafantasmas,Cazafantasmas 2,Scooby-Doo,Hombres de Negro
+Comedia,Qué Pasó Ayer,Proyecto X,Qué Pasó Ayer,Supersalidos,Superbad: Ésta sí es una fiesta
+Drama,Titanic,Titanic,La tormenta perfecta,Poseidón,La aventura del Poseidón,El hundimiento del Titanic
+Drama,El Club de la Pelea,Rocknrolla,El Club de la Pelea,Taxi Driver,Pulp Fiction
+Drama,Forrest Gump,Mi nombre es Harvey Milk,La vida en rosa,The Blind Side,Forrest Gump
+Drama,La Lista de Schindler,El Pianista,Hotel Rwanda,La Lista de Schindler,La Vida es Bella
+Drama,El Renacido,El Renacido,Django desencadenado,Hasta que llegó su hora,Bailando con lobos
+Ciencia Ficcion,Interestelar,Interestelar,Gravity,The Martian,Arrival
+Ciencia Ficcion,Blade Runner,Ghost in the Shell,Dark City,Blade Runner,Altered Carbon
+Ciencia Ficcion,Star Wars,Guardianes de la Galaxia,Star Wars,El Quinto Elemento,Stargate
+Ciencia Ficcion,El Origen,El Efecto Mariposa,Matrix,Donnie Darko,El Origen
+Ciencia Ficcion,Avatar,John Carter: Entre Dos Mundos,Guardianes de la Bahía,La llegada de los dioses,Avatar
+Animacion,Toy Story,La Gran Aventura Lego,Ralph,Buscando a Nemo,Toy Story
+Animacion,Shrek,Cómo Entrenar a tu Dragón,Monstruos vs. Aliens,Shrek,Megamente
+Animacion,Frozen,Moana,Frozen,Enredados,Brave
+Animacion,El Rey León,La Era del Hielo,El Rey León,Madagascar,Tarzán
+Animacion,Buscando a Nemo,Buscando a Nemo,Buscando a Dory,Moana,Shark Tale
